@@ -126,7 +126,7 @@ https://www.getmyuni.com/user/$USERNAME
 https://www.giantbomb.com/profile/$USERNAME/
 https://giphy.com/$USERNAME
 https://$USERNAME.gitbook.io/
-https://www.github.com/$USERNAME
+https://github.com/$USERNAME
 https://gitlab.com/$USERNAME
 https://gitee.com/$USERNAME
 https://www.goodreads.com/$USERNAME
