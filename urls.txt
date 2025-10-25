@@ -1,3 +1,27 @@
+Hackthebox: https://app.hackthebox.eu/profile/$USERNAME
+BugCrowd: https://bugcrowd.com/h/$USERNAME
+BuyMeACoffee: https://buymeacoff.ee/$USERNAME
+Intigriti: https://app.intigriti.com/profile/$USERNAME
+Discord: https://discord.com/users/$USERNAME
+Twitter: https://x.com/$USERNAME
+Hackerone: https://hackerone.com/$USERNAME
+GitHub: https://github.com/$USERNAME
+LinkedIn: https://www.linkedin.com/in/$USERNAME
+DockerHub: https://hub.docker.com/u/$USERNAME
+Medium: https://medium.com/@$USERNAME
+PayPal: https://www.paypal.com/paypalme/$USERNAME
+Pypi: https://pypi.org/user/$USERNAME
+Telegram: https://t.me/$USERNAME
+Tryhackme: https://tryhackme.com/p/$USERNAME
+Ko-fi: https://ko-fi.com/$USERNAME
+Replit: https://replit.com/@$USERNAME
+Linktr: https://linktr.ee/$USERNAME
+Twitch: https://www.twitch.tv/$USERNAME
+Reddit: https://www.reddit.com/user/$USERNAME
+Asciinema: https://asciinema.org/~$USERNAME
+Strava: https://www.strava.com/athletes/$USERNAME
+Archive: https://archive.org/details/@$USERNAME
+YouTube: https://www.youtube.com/@$USERNAME
 1337x: https://www.1337x.to/user/$USERNAME/
 2dimensions: https://2Dimensions.com/a/$USERNAME
 7cups: https://www.7cups.com/@$USERNAME
@@ -16,9 +40,7 @@ Developer: https://developer.apple.com/forums/profile/$USERNAME
 Discussions: https://discussions.apple.com/profile/$USERNAME
 Aparat: https://www.aparat.com/$USERNAME/
 Archiveofourown: https://archiveofourown.org/users/$USERNAME
-Archive: https://archive.org/details/@$USERNAME
 Artstation: https://www.artstation.com/$USERNAME
-Asciinema: https://asciinema.org/~$USERNAME
 Ask: https://ask.fedoraproject.org/u/$USERNAME
 Atcoder: https://atcoder.jp/users/$USERNAME
 Vjudge: https://VJudge.net/user/$USERNAME
@@ -44,8 +66,6 @@ Bookcrossing: https://www.bookcrossing.com/mybookshelf/$USERNAME/
 Boardgamegeek: https://boardgamegeek.com/user/$USERNAME
 Community: https://community.brave.com/u/$USERNAME/
 Breachsta: https://breachsta.rs/profile/$USERNAME
-BugCrowd: https://bugcrowd.com/h/$USERNAME
-BuyMeACoffee: https://buymeacoff.ee/$USERNAME
 Buzzfeed: https://buzzfeed.com/$USERNAME
 Forum: https://forum.cfx.re/u/$USERNAME/summary
 Cgtrader: https://www.cgtrader.com/$USERNAME
@@ -99,12 +119,9 @@ Dealabs: https://www.dealabs.com/profile/$USERNAME
 Deviantart: https://www.deviantart.com/$USERNAME
 Forums: https://forums.digitalspy.com/profile/$USERNAME
 Discogs: https://www.discogs.com/user/$USERNAME
-Discord: https://discord.com
-Discords: https://discords.com/api-v2/bio/details/$USERNAME
 Discuss: https://discuss.elastic.co/u/$USERNAME
 Diskusjon: https://www.diskusjon.no
 Disqus: https://disqus.com/$USERNAME
-Hub: https://hub.docker.com/u/$USERNAME/
 Dribbble: https://dribbble.com/$USERNAME
 Duolingo: https://www.duolingo.com/profile/$USERNAME
 Community: https://community.eintracht.de/fans/$USERNAME
@@ -141,7 +158,6 @@ Getmyuni: https://www.getmyuni.com/user/$USERNAME
 Giantbomb: https://www.giantbomb.com/profile/$USERNAME/
 Giphy: https://giphy.com/$USERNAME
 Gitbook: https://$USERNAME.gitbook.io/
-GitHub: https://www.github.com/$USERNAME
 Warframe: https://warframe.market/profile/$USERNAME
 Gitlab: https://gitlab.com/$USERNAME
 Gitea: https://gitea.com/$USERNAME
@@ -158,12 +174,9 @@ Hackaday: https://hackaday.io/$USERNAME
 Hackenproof: https://hackenproof.com/hackers/$USERNAME
 Hackerearth: https://hackerearth.com/@$USERNAME
 News: https://news.ycombinator.com/user?id=$USERNAME
-Hackerone: https://hackerone.com/$USERNAME
 Hackerrank: https://hackerrank.com/$USERNAME
 Hackmd: https://hackmd.io/@$USERNAME
-LinkedIn: https://www.linkedin.com/in/$USERNAME
 Scholar: https://scholar.harvard.edu/$USERNAME
-Hackthebox: https://app.hackthebox.eu/profile/$USERNAME
 Hashnode: https://hashnode.com/@$USERNAME
 Heavy-r: https://www.heavy-r.com/user/$USERNAME
 Hive: https://hive.blog/@$USERNAME
@@ -184,7 +197,6 @@ Imood: https://www.imood.com/users/$USERNAME
 Instagram: https://instagram.com/$USERNAME
 Instapaper: https://www.instapaper.com/p/$USERNAME
 Instructables: https://www.instructables.com/member/$USERNAME
-Intigriti: https://app.intigriti.com/profile/$USERNAME
 Forum: https://forum.ionicframework.com/u/$USERNAME
 Issuu: https://issuu.com/$USERNAME
 Itch: https://$USERNAME.itch.io/
@@ -209,8 +221,6 @@ Lesswrong: https://www.lesswrong.com/users/$USERNAME
 Letterboxd: https://letterboxd.com/$USERNAME
 Librarything: https://www.librarything.com/profile/$USERNAME
 Lichess: https://lichess.org/@/$USERNAME
-LinkedIn: https://linkedin.com/in/$USERNAME
-Linktr: https://linktr.ee/$USERNAME
 Linuxfr: https://linuxfr.org/users/$USERNAME
 Listed: https://listed.to/@$USERNAME
 Livejournal: https://$USERNAME.livejournal.com
@@ -219,7 +229,6 @@ Lottiefiles: https://lottiefiles.com/$USERNAME
 Lushstories: https://www.lushstories.com/profile/$USERNAME
 Forums: https://forums.mmorpg.com/profile/$USERNAME
 Mamot: https://mamot.fr/@$USERNAME
-Medium: https://medium.com/@$USERNAME
 Memrise: https://www.memrise.com/user/$USERNAME/
 Api: https://api.mojang.com/users/profiles/minecraft/$USERNAME
 Mixcloud: https://www.mixcloud.com/$USERNAME/
@@ -285,7 +294,6 @@ Programming: https://programming.dev/u/$USERNAME
 Pychess: https://www.pychess.org/@/$USERNAME
 Promodj: http://promodj.com/$USERNAME
 Pronouns: https://pronouns.page/@$USERNAME
-Pypi: https://pypi.org/user/$USERNAME
 Discuss: https://discuss.python.org/u/$USERNAME/summary
 Rajce: https://$USERNAME.rajce.idnes.cz/
 Rarible: https://rarible.com/marketplace/api/v4/urls/$USERNAME
@@ -293,10 +301,8 @@ Rateyourmusic: https://rateyourmusic.com/~$USERNAME
 Forum: https://forum.rclone.org/u/$USERNAME
 Redtube: https://www.redtube.com/users/$USERNAME
 Redbubble: https://www.redbubble.com/people/$USERNAME
-Reddit: https://www.reddit.com/user/$USERNAME
 Realmeye: https://www.realmeye.com/player/$USERNAME
 Reisefrage: https://www.reisefrage.net/nutzer/$USERNAME
-Replit: https://replit.com/@$USERNAME
 Researchgate: https://www.researchgate.net/profile/$USERNAME
 Reverbnation: https://www.reverbnation.com/$USERNAME
 Roblox: https://www.roblox.com/user.aspx?username=$USERNAME
@@ -339,7 +345,6 @@ Robertsspaceindustries: https://robertsspaceindustries.com/citizens/$USERNAME
 Status: https://status.cafe/users/$USERNAME
 Steamcommunity: https://steamcommunity.com/groups/$USERNAME
 Steamcommunity: https://steamcommunity.com/id/$USERNAME/
-Strava: https://www.strava.com/athletes/$USERNAME
 Forum: https://forum.sublimetext.com/u/$USERNAME
 Ch: https://ch.tetr.io/u/$USERNAME
 TikTok: https://www.tiktok.com/@$USERNAME
@@ -347,7 +352,6 @@ Mitiendanube: https://$USERNAME.mitiendanube.com/
 Profiles: https://profiles.topcoder.com/$USERNAME/
 Topmate: https://topmate.io/$USERNAME
 Traktrain: https://traktrain.com/$USERNAME
-T: https://t.me/$USERNAME
 Tellonym: https://tellonym.me/$USERNAME
 Tenor: https://tenor.com/users/$USERNAME
 Forums: https://forums.terraria.org/index.php?search/42798315/&c[users]=$USERNAME&o=relevance
@@ -359,12 +363,9 @@ Trakt: https://www.trakt.tv/users/$USERNAME
 Trashbox: https://trashbox.ru/users/$USERNAME
 Traewelling: https://traewelling.de/@$USERNAME
 Trello: https://trello.com/$USERNAME
-Tryhackme: https://tryhackme.com/p/$USERNAME
 Tuna: https://tuna.voicemod.net/user/$USERNAME
 Tweakers: https://tweakers.net/gallery/$USERNAME
-Twitch: https://www.twitch.tv/$USERNAME
 Trovo: https://trovo.live/s/$USERNAME/
-X: https://x.com/$USERNAME
 Data: https://data.typeracer.com/pit/profile?user=$USERNAME
 Ultimate-guitar: https://ultimate-guitar.com/u/$USERNAME
 Unsplash: https://unsplash.com/@$USERNAME
@@ -401,7 +402,6 @@ Music: https://music.yandex/users/$USERNAME/playlists
 Younow: https://www.younow.com/$USERNAME/
 Youpic: https://youpic.com/photographer/$USERNAME/
 Youporn: https://youporn.com/uservids/$USERNAME
-YouTube: https://www.youtube.com/@$USERNAME
 Akniga: https://akniga.org/profile/$USERNAME
 Authorstream: http://www.authorstream.com/$USERNAME/
 Babyblog: https://www.babyblog.ru/user/$USERNAME
@@ -426,7 +426,6 @@ Interpals: https://www.interpals.net/$USERNAME
 Irecommend: https://irecommend.ru/users/$USERNAME
 Jbzd: https://jbzd.com.pl/uzytkownik/$USERNAME
 Jeuxvideo: https://www.jeuxvideo.com/profil/$USERNAME
-Ko-fi: https://ko-fi.com/$USERNAME
 Kwork: https://kwork.ru/user/$USERNAME
 Last: https://last.fm/user/$USERNAME
 Forum: https://forum.leasehackr.com/u/$USERNAME/summary/
@@ -465,13 +464,11 @@ Xhamster: https://xhamster.com/users/$USERNAME
 Znanylekarz: https://www.znanylekarz.pl/$USERNAME
 Platzi: https://platzi.com/p/$USERNAME/
 Baby: https://www.baby.ru/u/$USERNAME
-Twitter: https://twitter.com/$USERNAME
 Facebook: https://facebook.com/$USERNAME
 TikTok: https://tiktok.com/@$USERNAME
 Pinterest: https://pinterest.com/$USERNAME
 Snapchat: https://snapchat.com/add/$USERNAME
 Tumblr: https://tumblr.com/$USERNAME
-Reddit: https://reddit.com/user/$USERNAME
 Threads: https://threads.net/@$USERNAME
 Bluesky: https://bluesky.social/profile/$USERNAME.bsky.social
 Mastodon: https://mastodon.technology/@$USERNAME
@@ -644,7 +641,6 @@ LoveAwakeProfile: https://loveawake.com/profile/$USERNAME
 DateHookupProfile: https://datehookup.com/profile/$USERNAME
 SpeedDateProfile: https://speeddate.com/profile/$USERNAME
 LovestruckProfile: https://lovestruck.com/profile/$USERNAME
-GitHub: https://github.com/$USERNAME
 Bitbucket: https://bitbucket.org/$USERNAME
 Codewars: https://codewars.com/users/$USERNAME
 CodeChef: https://codechef.com/users/$USERNAME
@@ -657,7 +653,6 @@ OverTheWire: https://overthewire.org/wargames/$USERNAME
 PicoCTF: https://picoctf.org/user/$USERNAME
 FreeCodeCamp: https://freecodecamp.org/$USERNAME
 CodersRank: https://profiles.codersrank.io/user/$USERNAME
-Replit: https://repl.it/@$USERNAME
 Glitch: https://glitch.com/@$USERNAME
 StackBlitz: https://stackblitz.com/@$USERNAME
 JSFiddle: https://jsfiddle.net/user/$USERNAME
@@ -670,7 +665,6 @@ Cargo: https://cargo.io/crates/$USERNAME
 Composer: https://composer.io/$USERNAME
 Docker: https://docker.com/u/$USERNAME
 Quay: https://quay.io/user/$USERNAME
-DockerHub: https://hub.docker.com/u/$USERNAME
 Kubernetes: https://k8s.io/users/$USERNAME
 KubernetesDocs: https://kubernetes.io/docs/home/$USERNAME
 Savannah: https://savannah.gnu.org/users/$USERNAME
@@ -1169,7 +1163,6 @@ InfusionSoft: https://infusionsoft.com/$USERNAME
 Drip: https://drip.com/$USERNAME
 Klaviyo: https://klaviyo.com/$USERNAME
 SendinBlue: https://sendinblue.com/$USERNAME
-PayPal: https://paypal.com/$USERNAME
 Venmo: https://venmo.com/u/$USERNAME
 CashApp: https://cash.app/$USERNAME
 ZellePay: https://zellepay.com/$USERNAME
@@ -1236,7 +1229,6 @@ Beacons: https://beacons.ai/$USERNAME
 SuperSo: https://super.so/$USERNAME
 LinkPop: https://linkpop.com/$USERNAME
 StartPage: https://start.page/$USERNAME
-YouTubeAt: https://youtube.com/@$USERNAME
 3DNewsForumHTTP: http://forum.3dnews.ru/member.php?username=$USERNAME
 AirlinePilotLife: https://airlinepilot.life/u/$USERNAME
 AlikCZ: https://www.alik.cz/u/$USERNAME
@@ -1275,7 +1267,6 @@ GFYCat: https://gfycat.com/@$USERNAME
 JeuxVideoHTTP: http://www.jeuxvideo.com/profil/$USERNAME?mode=infos
 Metacritic: https://www.metacritic.com/user/$USERNAME
 SkyrockSubdomain: https://$USERNAME.skyrock.com/
-Telegram: https://t.me/$USERNAME
 WhatsApp: https://wa.me/$USERNAME
 Bluesky: https://bsky.app/profile/$USERNAME
 WeChat: https://wx.qq.com/$USERNAME
@@ -1286,5 +1277,4 @@ Xiaohongshu: https://www.xiaohongshu.com/user/profile/$USERNAME
 Tagged: https://www.tagged.com/$USERNAME
 MySpace: https://myspace.com/$USERNAME
 Nextdoor: https://nextdoor.com/member/$USERNAME
-Discord: https://discord.com/users/$USERNAME
 Signal: https://signal.org/$USERNAME
