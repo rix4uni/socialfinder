@@ -23,9 +23,9 @@ go install github.com/rix4uni/socialfinder@latest
 
 ## Download prebuilt binaries
 ```
-wget https://github.com/rix4uni/socialfinder/releases/download/v0.0.2/socialfinder-linux-amd64-0.0.2.tgz
-tar -xvzf socialfinder-linux-amd64-0.0.2.tgz
-rm -rf socialfinder-linux-amd64-0.0.2.tgz
+wget https://github.com/rix4uni/socialfinder/releases/download/v0.0.3/socialfinder-linux-amd64-0.0.3.tgz
+tar -xvzf socialfinder-linux-amd64-0.0.3.tgz
+rm -rf socialfinder-linux-amd64-0.0.3.tgz
 mv socialfinder ~/go/bin/socialfinder
 ```
 Or download [binary release](https://github.com/rix4uni/socialfinder/releases) for your platform.
@@ -41,8 +41,10 @@ cd socialfinder; go install
 Usage of socialfinder:
   -file string
         Custom URLs file path
+  -nsfw
+        Include NSFW websites in the check.
   -silent
-        silent mode.
+        Silent mode.
   -version
         Print the version of the tool and exit.
 ```
@@ -80,6 +82,26 @@ Usage of socialfinder:
 [+] YouTube: https://www.youtube.com/@rix4uni
 
 [*] Search completed with 24 results
+```
+
+```yaml
+# Check only non-NSFW platforms
+socialfinder rix4uni
+
+# Check non-NSFW platforms from a custom file
+socialfinder -file custom_urls.txt rix4uni
+
+# Include NSFW platforms
+socialfinder -nsfw rix4uni
+
+# Include NSFW platforms with a custom file
+socialfinder -file custom_urls.txt -nsfw rix4uni
+
+# Silent mode, NSFW platforms
+socialfinder -silent -nsfw rix4uni
+
+# Show version
+socialfinder -version
 ```
 
 ## Acknowledgments
