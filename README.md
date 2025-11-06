@@ -13,7 +13,7 @@ A fast and efficient username enumeration tool written in Go that checks for the
 
 ## Prerequisites
 ```
-go install github.com/rix4uni/httpx@latest
+go install -v github.com/projectdiscovery/httpx/cmd/httpx@latest
 ```
 
 ## Installation
